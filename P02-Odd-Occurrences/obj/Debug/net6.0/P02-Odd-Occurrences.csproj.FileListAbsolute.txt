@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\bin\Debug\net6.0\P02-Odd-Occurrences.exe
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\bin\Debug\net6.0\P02-Odd-Occurrences.deps.json
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\bin\Debug\net6.0\P02-Odd-Occurrences.runtimeconfig.json
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\bin\Debug\net6.0\P02-Odd-Occurrences.dll
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\bin\Debug\net6.0\P02-Odd-Occurrences.pdb
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\P02-Odd-Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\P02-Odd-Occurrences.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\P02-Odd-Occurrences.AssemblyInfo.cs
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\P02-Odd-Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\P02-Odd-Occurrences.dll
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\refint\P02-Odd-Occurrences.dll
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\P02-Odd-Occurrences.pdb
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\P02-Odd-Occurrences.genruntimeconfig.cache
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P02-Odd-Occurrences\obj\Debug\net6.0\ref\P02-Odd-Occurrences.dll

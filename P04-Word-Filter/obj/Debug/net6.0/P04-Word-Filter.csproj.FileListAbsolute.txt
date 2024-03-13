@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\bin\Debug\net6.0\P04-Word-Filter.exe
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\bin\Debug\net6.0\P04-Word-Filter.deps.json
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\bin\Debug\net6.0\P04-Word-Filter.runtimeconfig.json
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\bin\Debug\net6.0\P04-Word-Filter.dll
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\bin\Debug\net6.0\P04-Word-Filter.pdb
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\P04-Word-Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\P04-Word-Filter.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\P04-Word-Filter.AssemblyInfo.cs
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\P04-Word-Filter.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\P04-Word-Filter.dll
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\refint\P04-Word-Filter.dll
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\P04-Word-Filter.pdb
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\P04-Word-Filter.genruntimeconfig.cache
+C:\Users\PC\source\repos\Dictionaries-Lambda-and-LINQ\P04-Word-Filter\obj\Debug\net6.0\ref\P04-Word-Filter.dll

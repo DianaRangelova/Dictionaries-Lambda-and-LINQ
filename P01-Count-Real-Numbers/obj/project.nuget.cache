@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xFh9lkLkTR/9ZMibs2U6B28kf3ayzr/tOL/6dj2THCsbtC9UmWSNcEol+nM1fkhlAwvOvsCninUP+rgZq/AhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Dictionaries-Lambda-and-LINQ\\P01-Count-Real-Numbers\\P01-Count-Real-Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

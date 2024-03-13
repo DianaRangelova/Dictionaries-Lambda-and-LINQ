@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0lmYZ6glAG+SRc1tzvxUYdTASu42Zgpef27H5Rfg0F+33Ad7AVwtUyfAg4EiIIR7dak/IanWMGxAPb4gkWw06Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Dictionaries-Lambda-and-LINQ\\P02-Odd-Occurrences\\P02-Odd-Occurrences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
