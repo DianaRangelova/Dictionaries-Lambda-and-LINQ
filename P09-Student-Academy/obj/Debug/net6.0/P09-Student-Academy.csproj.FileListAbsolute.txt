@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\bin\Debug\net6.0\P09-Student-Academy.exe
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\bin\Debug\net6.0\P09-Student-Academy.deps.json
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\bin\Debug\net6.0\P09-Student-Academy.runtimeconfig.json
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\bin\Debug\net6.0\P09-Student-Academy.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\bin\Debug\net6.0\P09-Student-Academy.pdb
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\P09-Student-Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\P09-Student-Academy.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\P09-Student-Academy.AssemblyInfo.cs
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\P09-Student-Academy.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\P09-Student-Academy.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\refint\P09-Student-Academy.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\P09-Student-Academy.pdb
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\P09-Student-Academy.genruntimeconfig.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P09-Student-Academy\obj\Debug\net6.0\ref\P09-Student-Academy.dll

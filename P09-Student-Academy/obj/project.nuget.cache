@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tORZZ7qeztk+zy9/Ib1A93J29ATmO6dCf1oyXKbOf+eP/9eLsZaGIsT3PyaOSa9OWlBCzY2wpX5jvtBjMkxBQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Exercise-Dictionaries-Lamdba-and-LINQ\\P09-Student-Academy\\P09-Student-Academy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

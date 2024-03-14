@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\bin\Debug\net6.0\P07-Orders.exe
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\bin\Debug\net6.0\P07-Orders.deps.json
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\bin\Debug\net6.0\P07-Orders.runtimeconfig.json
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\bin\Debug\net6.0\P07-Orders.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\bin\Debug\net6.0\P07-Orders.pdb
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\P07-Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\P07-Orders.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\P07-Orders.AssemblyInfo.cs
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\P07-Orders.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\P07-Orders.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\refint\P07-Orders.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\P07-Orders.pdb
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\P07-Orders.genruntimeconfig.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P07-Orders\obj\Debug\net6.0\ref\P07-Orders.dll

@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\bin\Debug\net6.0\P05-Count-Chars-in-a-String.exe
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\bin\Debug\net6.0\P05-Count-Chars-in-a-String.deps.json
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\bin\Debug\net6.0\P05-Count-Chars-in-a-String.runtimeconfig.json
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\bin\Debug\net6.0\P05-Count-Chars-in-a-String.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\bin\Debug\net6.0\P05-Count-Chars-in-a-String.pdb
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\P05-Count-Chars-in-a-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\P05-Count-Chars-in-a-String.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\P05-Count-Chars-in-a-String.AssemblyInfo.cs
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\P05-Count-Chars-in-a-String.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\P05-Count-Chars-in-a-String.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\refint\P05-Count-Chars-in-a-String.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\P05-Count-Chars-in-a-String.pdb
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\P05-Count-Chars-in-a-String.genruntimeconfig.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P01-Count-Chars-in-a-String\obj\Debug\net6.0\ref\P05-Count-Chars-in-a-String.dll

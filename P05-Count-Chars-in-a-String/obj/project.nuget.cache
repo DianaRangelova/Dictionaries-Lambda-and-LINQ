@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGscZoUtQISc1qCFQZyW428EZb5TLVraNxHve0F7pJ5/L2uRGtRED5cCShrHBM7QYd2IjeiPGS5nd3i7S4woYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Exercise-Dictionaries-Lamdba-and-LINQ\\P01-Count-Chars-in-a-String\\P05-Count-Chars-in-a-String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

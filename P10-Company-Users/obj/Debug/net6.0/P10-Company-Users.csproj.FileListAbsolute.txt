@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\bin\Debug\net6.0\P10-Company-Users.exe
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\bin\Debug\net6.0\P10-Company-Users.deps.json
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\bin\Debug\net6.0\P10-Company-Users.runtimeconfig.json
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\bin\Debug\net6.0\P10-Company-Users.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\bin\Debug\net6.0\P10-Company-Users.pdb
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\P10-Company-Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\P10-Company-Users.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\P10-Company-Users.AssemblyInfo.cs
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\P10-Company-Users.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\P10-Company-Users.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\refint\P10-Company-Users.dll
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\P10-Company-Users.pdb
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\P10-Company-Users.genruntimeconfig.cache
+C:\Users\PC\source\repos\Exercise-Dictionaries-Lamdba-and-LINQ\P10-Company-Users\obj\Debug\net6.0\ref\P10-Company-Users.dll
